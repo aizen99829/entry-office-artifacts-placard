@@ -1,8 +1,8 @@
 # Office Artifacts: The One-Line Placard Contest
 
-[![rank](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/bright-lynx-98/entry-office-artifacts-placard/rank.svg)](https://make.fun/c/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
-[![score](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/bright-lynx-98/entry-office-artifacts-placard/score.svg)](https://make.fun/c/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
-[![entries](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/bright-lynx-98/entry-office-artifacts-placard/entries.svg)](https://make.fun/c/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![make.fun](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![rank](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/aizen99829/entry-office-artifacts-placard/rank.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![reward](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/aizen99829/entry-office-artifacts-placard/reward.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
 
 A make.fun entry for the Office Artifacts one-line placard contest:
 one museum-label line for an everyday office object, treated as if
